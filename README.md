@@ -132,4 +132,4 @@ No new product roadmap is active in this repository. Future work should reopen t
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE).
+No standalone license file is currently included. The repository should not imply a license grant that is not explicitly present.
